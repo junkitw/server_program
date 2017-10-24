@@ -1,0 +1,24 @@
+Thu Jun  8 19:12:41 2017 || clientID: -159375528 IP: || Connection Successful.
+ ========== clientID: 4 disconnected ========== 
+Thu Jun  8 19:13:05 2017 || clientID: -159375528 IP: || Connection Successful.
+Thu Jun  8 19:13:05 2017 || IP: 127.0.0.1 (clientID: 5) CLIENT -----> SERVER || MESSAGE: WORK 1dffffff 0000000019d6689c085ae165831e934ff763ae46a218a6c172b3f1b60a8ce26f 1000000023212399 01
+
+ ========== clientID: 5 disconnected ========== 
+Thu Jun  8 19:13:41 2017 || clientID: -159375528 IP: || Connection Successful.
+Thu Jun  8 19:13:41 2017 || IP: 127.0.0.1 (clientID: 6) CLIENT -----> SERVER || MESSAGE: SOLN 1fffffff 0000000019d6689c085ae165831e934ff763ae46a218a6c172b3f1b60a8ce26f 10000000232123a2 01
+
+Thu Jun  8 19:13:41 2017 || server 0.0.0.0 || SERVER -----> CLIENT (clientID: 6), MESSAGE: ERRO: INVALID SOLN
+ 
+ ========== clientID: 6 disconnected ========== 
+Thu Jun  8 19:14:30 2017 || clientID: -159375528 IP: || Connection Successful.
+Thu Jun  8 19:14:30 2017 || IP: 127.0.0.1 (clientID: 7) CLIENT -----> SERVER || MESSAGE: SOLN 1fffffff 0000000019d6689c085ae165831e934ff763ae46a218a6c172b3f1b60a8ce26f 10000000232123a2 01
+
+Thu Jun  8 19:14:30 2017 || server 0.0.0.0 || SERVER -----> CLIENT (clientID: 7), MESSAGE: ERRO: INVALID SOLN
+ 
+ ========== clientID: 7 disconnected ========== 
+Thu Jun  8 19:14:52 2017 || clientID: -159375528 IP: || Connection Successful.
+Thu Jun  8 19:14:52 2017 || IP: 127.0.0.1 (clientID: 8) CLIENT -----> SERVER || MESSAGE: SOLN 1fffffff 0000000019d6689c085ae165831e934ff763ae46a218a6c172b3f1b60a8ce26f 10000000232123a2 01
+
+Thu Jun  8 19:14:52 2017 || server 0.0.0.0 || SERVER -----> CLIENT (clientID: 8), MESSAGE: ERRO: INVALID SOLN
+ 
+ ========== clientID: 8 disconnected ========== 
